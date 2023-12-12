@@ -1,4 +1,4 @@
-# git-commands
+# Revert specific files from commit.
 
 If you have already pushed the changes to a remote repository and need to revert some files, it's generally not recommended to modify the commit history directly, especially if others have already pulled the changes. Instead, you can create a new commit that undoes the changes you want to revert. Here are the steps:
 
